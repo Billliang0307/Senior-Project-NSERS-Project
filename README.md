@@ -5,8 +5,11 @@ The Network Security Emergency Response System (NSERS) Console App is a speciali
 The primary audience for NSERS includes:
 
 Network Administrators: Individuals responsible for managing and securing network infrastructure.
+
 Security Analysts: Professionals tasked with analyzing security threats and responding to incidents.
+
 IT Support Teams: Support staff who require tools to monitor and report unusual network activities.
+
 System Administrators: Administrators interested in integrating incident response and feedback mechanisms into their operational procedures.
 # Problem Statement
 In the landscape of ever-evolving cybersecurity threats, organizations face the challenge of swiftly detecting, reporting, and responding to security incidents. The absence of an efficient, integrated system can lead to delayed responses and potentially severe consequences for network security and data integrity.
